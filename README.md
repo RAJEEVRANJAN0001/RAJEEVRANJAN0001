@@ -87,4 +87,52 @@ If you're building something exciting in AI, healthcare tech, or want to discuss
 
 ---
 
+---
+
+<h2 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h2>
+
+<!-- Snake eating GitHub contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<p align="center">
+  <b><i>🐍 Watch the snake hunt down my contribution graph. It's hungry for commits!</i></b>
+</p>
+
+<!-- Matrix Rain (GIF) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75%" alt="Matrix rain" />
+</div>
+
+<p align="center">
+  <b><i>👨‍💻 Code flows like rain... Entering the Matrix of machine learning.</i></b>
+</p>
+
+<!-- Retro Gaming / Arcade GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="75%" alt="Retro game" />
+</div>
+
+<p align="center">
+  <b><i>🎮 Leveling up skills... One commit at a time!</i></b>
+</p>
+
+---
+
+<!-- Typing animation outro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FCEE09&width=700&lines=Thanks+for+visiting!+🌟;May+your+code+compile+on+the+first+try!+🚀;Keep+Building.+Keep+Committing+🔥" />
+</h2>
+
+<!-- Gradient Footer Message -->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Made+with+&message=🔥+and+💡+by+Rajeev+Ranjan&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=25&fontColor=ffffff" />
+</p>
+
+
 *Thanks for visiting! 😊*
