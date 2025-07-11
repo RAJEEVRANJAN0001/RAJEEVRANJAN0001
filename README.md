@@ -43,24 +43,15 @@
   <br>
   <img src="https://img.shields.io/badge/-Emotion%20Recognition-e67e22?style=for-the-badge&logo=openai&logoColor=white" />
 </a>
-
 <br><br>
 
-<!-- GenAI Next Sentence -->
-<a href="https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" />
+<!-- Brain Tumor Detection -->
+<a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
+  <img src="https://media.giphy.com/media/3ohjUZ0P9jbL9C62Va/giphy.gif" width="300px" />
   <br>
-  <img src="https://img.shields.io/badge/-GenAI%20Next%20Sentence-2980b9?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Brain%20Tumor%20Detection-8e44ad?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
-<br><br>
-
-<!-- Smart Notes -->
-<a href="https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" />
-  <br>
-  <img src="https://img.shields.io/badge/-Smart%20Notes%20Generator-f39c12?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -70,6 +61,17 @@
   <br>
   <img src="https://img.shields.io/badge/-Retinopathy%20Detection-2ecc71?style=for-the-badge&logo=eyeem&logoColor=white" />
 </a>
+
+<br><br>
+
+<!-- Virtual Voice Assistant -->
+<a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300px" />
+  <br>
+  <img src="https://img.shields.io/badge/-Virtual%20Voice%20Assistant-6f42c1?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+
 
 </div>
 
