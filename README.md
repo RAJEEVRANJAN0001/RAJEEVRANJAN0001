@@ -53,14 +53,23 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 My GitHub Stats (Live & Colorful)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=radical" width="38%" />
+
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=ffffff&bg_color=000000" width="48%" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&langs_count=6&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=ffffff&bg_color=000000" width="38%" alt="Top Languages" />
+
 </div>
 
----
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJEEVRANJAN0001&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="65%" />
+</div>
+
 
 ## 📜 Certifications
 
