@@ -100,38 +100,31 @@ If you're building something exciting in AI, healthcare tech, or want to discuss
   <b><i>🐍 Watch the snake hunt down my contribution graph. It's hungry for commits!</i></b>
 </p>
 
-<!-- Matrix Rain (GIF) -->
+
+
+<!-- 🔥 Retro Gaming / Arcade Animation -->
+<h2 align="center">🕹️ Level Up Mode: Activated</h2>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75%" alt="Matrix rain" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="75%" alt="Retro Arcade Game Auto-Playing" />
 </div>
 
 <p align="center">
-  <b><i>👨‍💻 Code flows like rain... Entering the Matrix of machine learning.</i></b>
-</p>
-
-<!-- Retro Gaming / Arcade GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="75%" alt="Retro game" />
-</div>
-
-<p align="center">
-  <b><i>🎮 Leveling up skills... One commit at a time!</i></b>
-</p>
-
----
-
-<!-- Typing animation outro -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FCEE09&width=700&lines=Thanks+for+visiting!+🌟;May+your+code+compile+on+the+first+try!+🚀;Keep+Building.+Keep+Committing+🔥" />
-</h2>
-
-<!-- Gradient Footer Message -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Made+with+&message=🔥+and+💡+by+Rajeev+Ranjan&color=blueviolet&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=🎮+Leveling+Up+as+a+ML+Developer...;👨‍💻+Playing+the+Game+of+Code+Everyday!+;🚀+Next+Stage:+Deep+Learning+Mastery!;" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding%20Rajeev!%20👾&fontSize=25&fontColor=ffffff" />
+</p>
+
+<!-- 🌈 Vibrant Gradient Footer Message -->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=✨%20Crafted%20with&message=🔥Passion%20+%20💡Creativity%20by%20Rajeev%20Ranjan&color=gradient&labelColor=purple&style=for-the-badge" />
+</p>
+
+<!-- 💫 Bonus Floating Stars Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks+for+scrolling!+✨&fontSize=25&fontAlign=center&fontColor=ffffff&colorGradient=true&animation=twinkling" />
 </p>
 
 
