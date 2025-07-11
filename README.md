@@ -35,62 +35,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=🧠+AI-powered.+ML-driven.+Real-world+impact...;🎯+Here+are+my+coolest+creations!" />
 </p>
 
-<!-- 🚀 Animated Project Grid -->
 <div align="center">
 
-<table>
-  <tr>
-    <!-- Emotion Recognition -->
-    <td align="center" width="300px">
-      <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-        <br>
-        <img src="https://img.shields.io/badge/-Emotion%20Recognition-e67e22?style=for-the-badge&logo=openai&logoColor=white" />
-      </a>
-    </td>
+<!-- Emotion Recognition -->
+<a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" />
+  <br>
+  <img src="https://img.shields.io/badge/-Emotion%20Recognition-e67e22?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
 
-    <!-- GenAI Next Sentence -->
-    <td align="center" width="300px">
-      <a href="https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-        <br>
-        <img src="https://img.shields.io/badge/-GenAI%20Next%20Sentence-2980b9?style=for-the-badge&logo=transformers&logoColor=white" />
-      </a>
-    </td>
+<br><br>
 
-    <!-- Smart Medical Notes Generator -->
-    <td align="center" width="300px">
-      <a href="https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator">
-        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
-        <br>
-        <img src="https://img.shields.io/badge/-Smart%20Notes%20Generator-f39c12?style=for-the-badge&logo=readme&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<!-- GenAI Next Sentence -->
+<a href="https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" />
+  <br>
+  <img src="https://img.shields.io/badge/-GenAI%20Next%20Sentence-2980b9?style=for-the-badge&logo=transformers&logoColor=white" />
+</a>
 
-  <tr>
-    <!-- Diabetic Retinopathy -->
-    <td align="center" width="300px">
-      <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
-        <br>
-        <img src="https://img.shields.io/badge/-Retinopathy%20Detection-2ecc71?style=for-the-badge&logo=eyeem&logoColor=white" />
-      </a>
-    </td>
+<br><br>
 
-    <!-- Placeholder or add a new project -->
-    <td align="center" width="300px">
-      <a href="https://github.com/RAJEEVRANJAN0001/PODCAST_SUMMARY">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-        <br>
-        <img src="https://img.shields.io/badge/-Podcast%20Summarizer-9b59b6?style=for-the-badge&logo=simpleicons&logoColor=white" />
-      </a>
-    </td>
+<!-- Smart Notes -->
+<a href="https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px" />
+  <br>
+  <img src="https://img.shields.io/badge/-Smart%20Notes%20Generator-f39c12?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
 
-    <!-- Leave blank or add more later -->
-    <td></td>
-  </tr>
-</table>
+<br><br>
+
+<!-- Diabetic Retinopathy -->
+<a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300px" />
+  <br>
+  <img src="https://img.shields.io/badge/-Retinopathy%20Detection-2ecc71?style=for-the-badge&logo=eyeem&logoColor=white" />
+</a>
 
 </div>
 
@@ -149,8 +128,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=tokyonight" width="38%" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RAJEEVRANJAN0001&theme=tokyonight" width="70%" />
-</div>
+
 
 ---
 
