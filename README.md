@@ -13,6 +13,7 @@
 <p align="center">
   I'm a <strong>Machine Learning Developer</strong> 💻 and <strong>AI Enthusiast</strong> 🤖 building innovative projects 🛠️ with data-driven solutions.
 </p>
+
 <!-- Contact Badges -->
 <div align="center">
   <a href="mailto:rajeevranjanpratapsinghj94@gmail.com" target="_blank">
@@ -28,28 +29,116 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 My Featured Creations from the Lab
 
-- 🔬 [**Brain Tumor Detection**](https://github.com/RAJEEVRANJAN0001/brainTumor): Classifies brain MRI images into tumor types using ResNet50 & DenseNet121 (99.69% accuracy)  
-- 😃 [**Emotion Recognition**](https://github.com/RAJEEVRANJAN0001/Emotion-recognition): Real-time CNN model recognizing 7 emotions with OpenCV  
-- 🧠 [**Next Sentence Prediction (GenAI)**](https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models): Uses multiple LLMs to predict conversational flow  
-- 🩺 [**Medical Disease Diagnosis**](https://github.com/RAJEEVRANJAN0001/AI-Based-Predictive-Analysis-for-Medical-disease-Diagnois): SVM, Decision Trees & CNNs with SHAP explainability  
-- 👁️ [**Diabetic Retinopathy Detection**](https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification): Detects DR from fundus images using DenseNet  
-- 📄 [**Smart Medical Notes Generator**](https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator): Converts keywords and PDFs into structured clinical notes  
-- 🎙️ [**Podcast Summarizer**](https://github.com/RAJEEVRANJAN0001/PODCAST_SUMMARY): Uses ListenNotes + AssemblyAI to summarize podcast episodes  
-- 🔐 [**Blockchain Encryption System**](https://github.com/RAJEEVRANJAN0001/Blockchain-Encryption-System): Secures messages using AES + RSA + blockchain ledger  
-- 🗣️ [**Virtual Voice Assistant**](https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT): Multifunctional Python-based assistant with voice, detection, and task automation  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=🧠+AI-powered.+ML-driven.+Real-world+impact...;🎯+Here+are+my+coolest+creations!" />
+</p>
 
-🔗 _More projects on [GitHub](https://github.com/RAJEEVRANJAN0001?tab=repositories)_  
+<!-- 🚀 Animated Project Grid -->
+<div align="center">
 
----
+<table>
+  <tr>
+    <!-- Emotion Recognition -->
+    <td align="center" width="300px">
+      <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+        <br>
+        <img src="https://img.shields.io/badge/-Emotion%20Recognition-e67e22?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+    </td>
+
+    <!-- GenAI Next Sentence -->
+    <td align="center" width="300px">
+      <a href="https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+        <br>
+        <img src="https://img.shields.io/badge/-GenAI%20Next%20Sentence-2980b9?style=for-the-badge&logo=transformers&logoColor=white" />
+      </a>
+    </td>
+
+    <!-- Smart Medical Notes Generator -->
+    <td align="center" width="300px">
+      <a href="https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator">
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+        <br>
+        <img src="https://img.shields.io/badge/-Smart%20Notes%20Generator-f39c12?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Diabetic Retinopathy -->
+    <td align="center" width="300px">
+      <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
+        <br>
+        <img src="https://img.shields.io/badge/-Retinopathy%20Detection-2ecc71?style=for-the-badge&logo=eyeem&logoColor=white" />
+      </a>
+    </td>
+
+    <!-- Placeholder or add a new project -->
+    <td align="center" width="300px">
+      <a href="https://github.com/RAJEEVRANJAN0001/PODCAST_SUMMARY">
+        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+        <br>
+        <img src="https://img.shields.io/badge/-Podcast%20Summarizer-9b59b6?style=for-the-badge&logo=simpleicons&logoColor=white" />
+      </a>
+    </td>
+
+    <!-- Leave blank or add more later -->
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, Java, HTML/CSS, JavaScript  
-- **Frameworks/Libraries**: TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib  
-- **Tools**: GitHub, Jupyter, VS Code, PyCharm, GCP, Streamlit  
-- **Concepts**: Deep Learning, Computer Vision, Generative AI, NLP, Blockchain, Data Visualization  
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- Libraries -->
+<br><br>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<!-- Tools -->
+<br><br>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<!-- Concepts -->
+<br><br>
+<img src="https://img.shields.io/badge/-Deep%20Learning-8E44AD?style=for-the-badge&logo=brains&logoColor=white" />
+<img src="https://img.shields.io/badge/-Computer%20Vision-6C3483?style=for-the-badge&logo=biomechanics&logoColor=white" />
+<img src="https://img.shields.io/badge/-Generative%20AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-NLP-2ECC71?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Blockchain-0E76A8?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data%20Visualization-E67E22?style=for-the-badge&logo=tableau&logoColor=white" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFDD&center=true&vCenter=true&width=1000&lines=🔭+Exploring+New+Libraries+Daily...;🚀+Engineering+Intelligence+with+Code...;🎯+Building+ML+Systems+that+Matter!" />
+</p>
 
 ---
 
@@ -57,60 +146,51 @@
 
 <div align="center">
 
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=ffffff&bg_color=000000" width="48%" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&langs_count=6&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=ffffff&bg_color=000000" width="38%" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=tokyonight" width="38%" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RAJEEVRANJAN0001&theme=tokyonight" width="70%" />
 </div>
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJEEVRANJAN0001&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="65%" />
-</div>
-
+---
 
 ## 📜 Certifications
 
-- Google Ads AI-Powered Performance Certification (91.3%)  
-- Google Analytics Certification  
-- Applied Machine Learning in Python – Coursera  
-- Blockchain Developer – IBM  
-- GenAI with IBM Watsonx – IBM  
-- HackerRank Problem Solving (Basic)  
+- 🏅 Google Ads AI-Powered Performance Certification  
+- 📊 Google Analytics Certified  
+- 📘 Applied ML in Python – Coursera  
+- 🔐 Blockchain Developer – IBM  
+- 🤖 GenAI with Watsonx – IBM  
+- 💻 HackerRank Problem Solving (Basic)  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 2nd Place – Robotics & Coding Workshop @ VIT Bhopal  
-- 🧠 Top 1K Rank – GeeksforGeeks Leaderboard (VIT Bhopal)  
-- 📊 Completed consulting & analytics simulations for Tata Group ESG and KPMG Forage  
+- 🥈 2nd Place – Robotics Workshop @ VIT  
+- 🧠 GFG Top 1K Rank @ VIT  
+- 💼 Analytics Case Simulations – Tata ESG & KPMG AU  
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let’s Collaborate!
 
-If you're building something exciting in AI, healthcare tech, or want to discuss neural nets, drop me a message!
+If you’re building something with AI, ML, or health tech — reach out!  
+📬 [Email me](mailto:rajeevranjanpratapsinghj94@gmail.com)
 
 ---
 
 <h2 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h2>
 
-<!-- Snake eating GitHub contributions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <p align="center">
-  <b><i>🐍 Watch the snake hunt down my contribution graph. It's hungry for commits!</i></b>
+  <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
 </p>
 
-<!-- 🌈 Vibrant Gradient Footer Message -->
-
-<!-- 💫 Bonus Floating Stars Footer Animation -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks+for+scrolling!+✨&fontSize=25&fontAlign=center&fontColor=ffffff&colorGradient=true&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks+for+visiting!+🌟&fontSize=25&fontAlign=center&fontColor=ffffff&colorGradient=true&animation=twinkling" />
 </p>
-
