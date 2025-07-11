@@ -13,47 +13,78 @@
 <p align="center">
   I'm a <strong>Machine Learning Developer</strong> 💻 and <strong>AI Enthusiast</strong> 🤖 building innovative projects 🛠️ with data-driven solutions.
 </p>
-
-## 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeevranjan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevranjan@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajeevranjan)
-
-## 🚀 Top Projects
-
-| [📈 **Stock Price Predictor**](#)            | [🤖 **Image Classifier**](#)                 |
-| :---:                                  | :---:                                     |
-| ![Stock Predictor](https://via.placeholder.com/300x200.png?text=Stock+Predictor)     | ![Image Classifier](https://via.placeholder.com/300x200.png?text=Image+Classifier)    |
-| *Predicts stock market trends using historical data.* | *Classifies images into categories using a convolutional neural network.* |
-
-| [📝 **NLP Chatbot**](#)         | [🕹️ **Reinforcement Agent**](#)            |
-| :---:                      | :---:                                   |
-| ![NLP Chatbot](https://via.placeholder.com/300x200.png?text=NLP+Chatbot) | ![RL Agent](https://via.placeholder.com/300x200.png?text=RL+Agent)      |
-| *AI chatbot that converses using NLP techniques.* | *Reinforcement Learning agent trained to play games.* |
-
-## 📈 GitHub Stats
-
-[![Rajeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevranjan&show_icons=true&count_private=true&theme=synthwave)](https://github.com/rajeevranjan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjan&layout=compact&theme=synthwave)](https://github.com/rajeevranjan)
-
-## 👾 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevranjan/rajeevranjan/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevranjan/rajeevranjan/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/rajeevranjan/rajeevranjan/output/pacman-contribution-graph.svg" />
-</picture>
+<!-- Contact Badges -->
+<div align="center">
+  <a href="mailto:rajeevranjanpratapsinghj94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 🤝 Let's Collaborate!
+## 🌟 Featured Projects
 
-I'm always excited to work on new projects. Feel free to connect on [LinkedIn](https://linkedin.com/in/rajeevranjan) or shoot me an [email](mailto:rajeevranjan@example.com)! 🚀
+- 🔬 [**Brain Tumor Detection**](https://github.com/RAJEEVRANJAN0001/brainTumor): Classifies brain MRI images into tumor types using ResNet50 & DenseNet121 (99.69% accuracy)  
+- 😃 [**Emotion Recognition**](https://github.com/RAJEEVRANJAN0001/Emotion-recognition): Real-time CNN model recognizing 7 emotions with OpenCV  
+- 🧠 [**Next Sentence Prediction (GenAI)**](https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models): Uses multiple LLMs to predict conversational flow  
+- 🩺 [**Medical Disease Diagnosis**](https://github.com/RAJEEVRANJAN0001/AI-Based-Predictive-Analysis-for-Medical-disease-Diagnois): SVM, Decision Trees & CNNs with SHAP explainability  
+- 👁️ [**Diabetic Retinopathy Detection**](https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification): Detects DR from fundus images using DenseNet  
+- 📄 [**Smart Medical Notes Generator**](https://github.com/RAJEEVRANJAN0001/Smart-Medical-Notes-Generator): Converts keywords and PDFs into structured clinical notes  
+- 🎙️ [**Podcast Summarizer**](https://github.com/RAJEEVRANJAN0001/PODCAST_SUMMARY): Uses ListenNotes + AssemblyAI to summarize podcast episodes  
+- 🔐 [**Blockchain Encryption System**](https://github.com/RAJEEVRANJAN0001/Blockchain-Encryption-System): Secures messages using AES + RSA + blockchain ledger  
+- 🗣️ [**Virtual Voice Assistant**](https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT): Multifunctional Python-based assistant with voice, detection, and task automation  
 
+🔗 _More projects on [GitHub](https://github.com/RAJEEVRANJAN0001?tab=repositories)_  
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Python, Java, HTML/CSS, JavaScript  
+- **Frameworks/Libraries**: TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib  
+- **Tools**: GitHub, Jupyter, VS Code, PyCharm, GCP, Streamlit  
+- **Concepts**: Deep Learning, Computer Vision, Generative AI, NLP, Blockchain, Data Visualization  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=radical" width="38%" />
+</div>
+
+---
+
+## 📜 Certifications
+
+- Google Ads AI-Powered Performance Certification (91.3%)  
+- Google Analytics Certification  
+- Applied Machine Learning in Python – Coursera  
+- Blockchain Developer – IBM  
+- GenAI with IBM Watsonx – IBM  
+- HackerRank Problem Solving (Basic)  
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2nd Place – Robotics & Coding Workshop @ VIT Bhopal  
+- 🧠 Top 1K Rank – GeeksforGeeks Leaderboard (VIT Bhopal)  
+- 📊 Completed consulting & analytics simulations for Tata Group ESG and KPMG Forage  
+
+---
+
+## 💬 Let's Connect!
+
+If you're building something exciting in AI, healthcare tech, or want to discuss neural nets, drop me a message!
+
+---
+
+*Thanks for visiting! 😊*
