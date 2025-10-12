@@ -1,14 +1,4 @@
-<!-- Visitor badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RAJEEVRANJAN0001.RAJEEVRANJAN0001" alt="visitor badge" />
-</p>
 
-<!-- Typing animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Rajeev+Ranjan!;AI+Engineer+%7C+ML+Practitioner+%7C+Tech+Enthusiast;&center=true&size=30">
-  </a>
-</h1>
 
 <p align="center">
   I'm a <strong>Machine Learning Developer</strong> 💻 and <strong>AI Enthusiast</strong> 🤖 building innovative projects 🛠️ with data-driven solutions.
