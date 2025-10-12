@@ -121,38 +121,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFDD&center=true&vCenter=true&width=1000&lines=🔭+Exploring+New+Libraries+Daily...;🚀+Engineering+Intelligence+with+Code...;🎯+Building+ML+Systems+that+Matter!" />
 </p>
 
----
-
-## 📊 My GitHub Stats (Live & Colorful)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=tokyonight" width="38%" />
-<br>
-
-
----
-
-## 📜 Certifications
-
-- 🏅 Google Ads AI-Powered Performance Certification  
-- 📊 Google Analytics Certified  
-- 📘 Applied ML in Python – Coursera  
-- 🔐 Blockchain Developer – IBM  
-- 🤖 GenAI with Watsonx – IBM  
-- 💻 HackerRank Problem Solving (Basic)  
-
----
-
-## 🏆 Achievements
-
-- 🥈 2nd Place – Robotics Workshop @ VIT  
-- 🧠 GFG Top 1K Rank @ VIT  
-- 💼 Analytics Case Simulations – Tata ESG & KPMG AU  
-
----
-
 ## 💬 Let’s Collaborate!
 
 If you’re building something with AI, ML, or health tech — reach out!  
