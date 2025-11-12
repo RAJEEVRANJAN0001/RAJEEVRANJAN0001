@@ -58,7 +58,7 @@ me.say_hi()
 
 ### 🧠 Emotion Recognition
 <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  <img src="https://unsplash.com/photos/a-man-with-blue-eyes-and-a-black-background-GkwnyqRMD70"/>
+  
 </a>
 
 **Real-time facial emotion detection using Deep Learning**
@@ -77,7 +77,7 @@ me.say_hi()
 
 ### 🧬 Brain Tumor Detection
 <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-  <img src="https://unsplash.com/photos/two-doctors-examining-a-brain-mri-scan-together-AB0r9z7eRYg"/>
+ 
 </a>
 
 **AI-powered medical imaging analysis for tumor detection**
@@ -87,7 +87,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-    <img src="https://img.shields.io/badge/-View%20Project-8e44ad?style=for-the-badge&logo=github&logoColor=white" />
+    
   </a>
 </p>
 
@@ -99,7 +99,6 @@ me.say_hi()
 
 ### 👁️ Diabetic Retinopathy Detection
 <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-  <img src="https://unsplash.com/photos/a-close-up-of-a-warm-toned-human-eye-Sx3kMNvaYLw"/>
 </a>
 
 **Early detection of diabetic retinopathy using CNNs**
@@ -118,7 +117,7 @@ me.say_hi()
 
 ### 🎙️ Virtual Voice Assistant
 <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-  <img src="https://unsplash.com/photos/abstract-colorful-sound-waves-reflecting-on-a-dark-surface-T-lfF4OWiz4"/>
+ 
 </a>
 
 **Intelligent voice-controlled assistant with NLP**
@@ -202,18 +201,9 @@ me.say_hi()
 
 ## 📈 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <p align="center">
-  <b><i>🐍 Watch the snake devour my contributions! Every commit feeds the beast!</i></b>
+  <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
 </p>
-
 ---
 
 ## 💡 Random Dev Quote
@@ -285,19 +275,6 @@ const currentGoals = {
 
 ---
 
-## 💰 Support My Work
-
-<div align="center">
-
-If you like my projects and want to support my work, consider buying me a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/RAJEEVRANJAN" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" >
-</a>
-
-</div>
-
----
 
 <div align="center">
 
