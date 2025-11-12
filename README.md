@@ -1,134 +1,357 @@
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJEEV%20RANJAN%20PRATAP%20SINGH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=🧠+AI-Powered+Solutions;💻+Machine+Learning+Engineer;🚀+Building+Intelligent+Systems;🎯+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+</a>
+
+<!-- Social Badges with Stats -->
 <p align="center">
-  I'm a <strong>Machine Learning Developer</strong> 💻 and <strong>AI Enthusiast</strong> 🤖 building innovative projects 🛠️ with data-driven solutions.
+  <a href="mailto:rajeevranjanpratapsinghj94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
 </p>
 
-<!-- Contact Badges -->
-<div align="center">
-  <a href="mailto:rajeevranjanpratapsinghj94@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/RAJEEVRANJAN0001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAJEEVRANJAN0001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RAJEEVRANJAN0001?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
+
 </div>
 
 ---
 
-## 🌟 My Featured Creations from the Lab
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=🧠+AI-powered.+ML-driven.+Real-world+impact...;🎯+Here+are+my+coolest+creations!" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```python
+class MachineLearningEngineer:
+    def __init__(self):
+        self.name = "Rajeev Ranjan Pratap Singh"
+        self.role = "ML Developer & AI Enthusiast"
+        self.location = "India 🇮🇳"
+        self.focus = ["Deep Learning", "Computer Vision", "NLP"]
+        self.passion = "Building AI systems that solve real problems"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's innovate together! 🚀")
+
+me = MachineLearningEngineer()
+me.say_hi()
+```
+
+- 🔭 Currently working on **Advanced Healthcare AI Solutions**
+- 🌱 Learning **Generative AI, LLMs, and MLOps**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- ⚡ Fun fact: **I believe AI can make the world a better place!**
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-<!-- Emotion Recognition -->
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Emotion Recognition
 <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" />
-  <br>
-  <img src="https://img.shields.io/badge/-Emotion%20Recognition-e67e22?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Emotion Recognition"/>
 </a>
-<br><br>
 
-<!-- Brain Tumor Detection -->
+**Real-time facial emotion detection using Deep Learning**
+- 🎯 CNN-based architecture
+- 📊 7 emotion categories
+- 🚀 Real-time inference
+
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+    <img src="https://img.shields.io/badge/-View%20Project-e67e22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🧬 Brain Tumor Detection
 <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-  <img src="https://media.giphy.com/media/3ohjUZ0P9jbL9C62Va/giphy.gif" width="300px" />
-  <br>
-  <img src="https://img.shields.io/badge/-Brain%20Tumor%20Detection-8e44ad?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://media.giphy.com/media/3ohjUZ0P9jbL9C62Va/giphy.gif" width="100%" alt="Brain Tumor"/>
 </a>
 
+**AI-powered medical imaging analysis for tumor detection**
+- 🏥 MRI scan analysis
+- 🎯 Multi-class classification
+- 💡 95%+ accuracy
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
+    <img src="https://img.shields.io/badge/-View%20Project-8e44ad?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<!-- Diabetic Retinopathy -->
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ Diabetic Retinopathy Detection
 <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300px" />
-  <br>
-  <img src="https://img.shields.io/badge/-Retinopathy%20Detection-2ecc71?style=for-the-badge&logo=eyeem&logoColor=white" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" alt="Retinopathy"/>
 </a>
 
-<br><br>
+**Early detection of diabetic retinopathy using CNNs**
+- 🔬 Retinal image analysis
+- 📈 5-stage classification
+- 🏆 Medical-grade accuracy
 
-<!-- Virtual Voice Assistant -->
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+    <img src="https://img.shields.io/badge/-View%20Project-2ecc71?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🎙️ Virtual Voice Assistant
 <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300px" />
-  <br>
-  <img src="https://img.shields.io/badge/-Virtual%20Voice%20Assistant-6f42c1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100%" alt="Voice Assistant"/>
 </a>
 
+**Intelligent voice-controlled assistant with NLP**
+- 🗣️ Speech recognition
+- 🤖 Natural language understanding
+- ⚡ Task automation
 
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
+    <img src="https://img.shields.io/badge/-View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
-
-## 🛠️ Skills & Tools
-
-<div align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<!-- Libraries -->
-<br><br>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<!-- Tools -->
-<br><br>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-<!-- Concepts -->
-<br><br>
-<img src="https://img.shields.io/badge/-Deep%20Learning-8E44AD?style=for-the-badge&logo=brains&logoColor=white" />
-<img src="https://img.shields.io/badge/-Computer%20Vision-6C3483?style=for-the-badge&logo=biomechanics&logoColor=white" />
-<img src="https://img.shields.io/badge/-Generative%20AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-NLP-2ECC71?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Blockchain-0E76A8?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%20Visualization-E67E22?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFDD&center=true&vCenter=true&width=1000&lines=🔭+Exploring+New+Libraries+Daily...;🚀+Engineering+Intelligence+with+Code...;🎯+Building+ML+Systems+that+Matter!" />
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 💬 Let’s Collaborate!
+### 🤖 AI/ML Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+</p>
 
-If you’re building something with AI, ML, or health tech — reach out!  
-📬 [Email me](mailto:rajeevranjanpratapsinghj94@gmail.com)
+### 📊 Data Science & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🎯 Specializations
+<p>
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge&logo=deepmind&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-6C3483?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-E67E22?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-0E76A8?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-<h2 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVRANJAN0001&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJEEVRANJAN0001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=00F0FF&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAJEEVRANJAN0001&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%" />
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RAJEEVRANJAN0001/RAJEEVRANJAN0001/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <p align="center">
-  <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
+  <b><i>🐍 Watch the snake devour my contributions! Every commit feeds the beast!</i></b>
 </p>
 
-<!-- Footer -->
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvfresuf2345yvu3vmt6dhi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f0ff&bar_color_cover=true" />
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=800&lines=🔭+Always+Learning+New+Technologies;🚀+Building+AI+that+Matters;🎯+Open+to+Collaborations;💡+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks+for+visiting!+🌟&fontSize=25&fontAlign=center&fontColor=ffffff&colorGradient=true&animation=twinkling" />
+  <b>🚀 Interested in AI, ML, or Healthcare Tech?</b><br/>
+  <b>Let's build something revolutionary together!</b>
 </p>
+
+<div align="center">
+
+📧 **Email:** [rajeevranjanpratapsinghj94@gmail.com](mailto:rajeevranjanpratapsinghj94@gmail.com)
+
+🔗 **LinkedIn:** [Rajeev Ranjan Pratap Singh](https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/)
+
+💻 **GitHub:** [RAJEEVRANJAN0001](https://github.com/RAJEEVRANJAN0001)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+    learning: ["Large Language Models", "MLOps", "Edge AI"],
+    building: ["Healthcare AI Solutions", "Generative AI Apps"],
+    exploring: ["Reinforcement Learning", "Federated Learning"],
+    collaborating: "Open to innovative AI projects",
+    nextMilestone: "Contributing to open-source AI frameworks"
+};
+```
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Emotion-recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
+<a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=brainTumor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
+
+<a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Diabetic-Retinopathy-Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
+<a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=VIRTUAL-VOICE-ASSISTANT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+If you like my projects and want to support my work, consider buying me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/RAJEEVRANJAN" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" >
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Innovation distinguishes between a leader and a follower." – Steve Jobs
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-AI%20&%20Coffee-blue?style=for-the-badge" />
+</p>
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
