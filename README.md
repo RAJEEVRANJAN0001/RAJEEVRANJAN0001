@@ -58,7 +58,7 @@ me.say_hi()
 
 ### 🧠 Emotion Recognition
 <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  <img src="https://images.unsplash.com/photo-1732191777027-5d26cd8f6f01?w=800&q=80" width="100%" alt="Emotion Recognition"/>
+  <img src="https://unsplash.com/photos/a-man-with-blue-eyes-and-a-black-background-GkwnyqRMD70"/>
 </a>
 
 **Real-time facial emotion detection using Deep Learning**
@@ -77,7 +77,7 @@ me.say_hi()
 
 ### 🧬 Brain Tumor Detection
 <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800&q=80" width="100%" alt="Brain Tumor Detection"/>
+  <img src="https://unsplash.com/photos/two-doctors-examining-a-brain-mri-scan-together-AB0r9z7eRYg"/>
 </a>
 
 **AI-powered medical imaging analysis for tumor detection**
@@ -99,7 +99,7 @@ me.say_hi()
 
 ### 👁️ Diabetic Retinopathy Detection
 <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-  <img src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?w=800&q=80" width="100%" alt="Diabetic Retinopathy Detection"/>
+  <img src="https://unsplash.com/photos/a-close-up-of-a-warm-toned-human-eye-Sx3kMNvaYLw"/>
 </a>
 
 **Early detection of diabetic retinopathy using CNNs**
@@ -118,7 +118,7 @@ me.say_hi()
 
 ### 🎙️ Virtual Voice Assistant
 <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-  <img src="https://images.unsplash.com/photo-1676277791608-e5cc5629ddb8?w=800&q=80" width="100%" alt="Virtual Voice Assistant"/>
+  <img src="https://unsplash.com/photos/abstract-colorful-sound-waves-reflecting-on-a-dark-surface-T-lfF4OWiz4"/>
 </a>
 
 **Intelligent voice-controlled assistant with NLP**
