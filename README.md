@@ -201,9 +201,16 @@ me.say_hi()
 
 ## 📈 Contribution Snake
 
+<h2 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
 <p align="center">
   <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
 </p>
+
 ---
 
 ## 💡 Random Dev Quote
@@ -216,11 +223,7 @@ me.say_hi()
 
 ## 💬 Let's Connect & Collaborate!
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=800&lines=🔭+Always+Learning+New+Technologies;🚀+Building+AI+that+Matters;🎯+Open+to+Collaborations;💡+Let's+Create+Something+Amazing!" alt="Typing SVG" />
-
-</div>
 
 <p align="center">
   <b>🚀 Interested in AI, ML, or Healthcare Tech?</b><br/>
