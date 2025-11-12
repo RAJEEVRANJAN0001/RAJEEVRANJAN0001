@@ -3,10 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJEEV%20RANJAN%20PRATAP%20SINGH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=🧠+AI-Powered+Solutions;💻+Machine+Learning+Engineer;🚀+Building+Intelligent+Systems;🎯+Transforming+Ideas+into+Reality" alt="Typing SVG" />
-</a>
+
 
 <!-- Social Badges with Stats -->
 <p align="center">
@@ -61,7 +58,7 @@ me.say_hi()
 
 ### 🧠 Emotion Recognition
 <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Emotion Recognition"/>
+  <img src="https://images.unsplash.com/photo-1732191777027-5d26cd8f6f01?w=800&q=80" width="100%" alt="Emotion Recognition"/>
 </a>
 
 **Real-time facial emotion detection using Deep Learning**
@@ -80,7 +77,7 @@ me.say_hi()
 
 ### 🧬 Brain Tumor Detection
 <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-  <img src="https://media.giphy.com/media/3ohjUZ0P9jbL9C62Va/giphy.gif" width="100%" alt="Brain Tumor"/>
+  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=800&q=80" width="100%" alt="Brain Tumor Detection"/>
 </a>
 
 **AI-powered medical imaging analysis for tumor detection**
@@ -102,7 +99,7 @@ me.say_hi()
 
 ### 👁️ Diabetic Retinopathy Detection
 <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" alt="Retinopathy"/>
+  <img src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?w=800&q=80" width="100%" alt="Diabetic Retinopathy Detection"/>
 </a>
 
 **Early detection of diabetic retinopathy using CNNs**
@@ -121,7 +118,7 @@ me.say_hi()
 
 ### 🎙️ Virtual Voice Assistant
 <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100%" alt="Voice Assistant"/>
+  <img src="https://images.unsplash.com/photo-1676277791608-e5cc5629ddb8?w=800&q=80" width="100%" alt="Virtual Voice Assistant"/>
 </a>
 
 **Intelligent voice-controlled assistant with NLP**
