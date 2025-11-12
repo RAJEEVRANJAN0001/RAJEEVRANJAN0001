@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJEEVRANJAN0001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/RAJEEVRANJAN0001?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
-
 </div>
 
 ---
@@ -51,7 +45,6 @@ me = MachineLearningEngineer()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **Advanced Healthcare AI Solutions**
 - 🌱 Learning **Generative AI, LLMs, and MLOps**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
 - ⚡ Fun fact: **I believe AI can make the world a better place!**
@@ -210,30 +203,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJEEVRANJAN0001&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJEEVRANJAN0001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area_color=00F0FF&area=true&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJEEVRANJAN0001&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%" />
-</div>
-
----
-
 ## 📈 Contribution Snake
 
 <div align="center">
@@ -254,14 +223,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvfresuf2345yvu3vmt6dhi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f0ff&bar_color_cover=true" />
 </div>
 
 ---
