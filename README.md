@@ -1,295 +1,337 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJEEV%20RANJAN%20PRATAP%20SINGH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-
-
-<!-- Social Badges with Stats -->
 <p align="center">
+  <!-- Cyber-Hacker & AI/ML Local Wave Header -->
+  <img src="assets/header.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Glowing Cyber Badges -->
   <a href="mailto:rajeevranjanpratapsinghj94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-00FF66?style=for-the-badge&logo=gmail&logoColor=0a0b10&labelColor=231F20" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0a0b10&labelColor=231F20" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/RAJEEVRANJAN0001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0a0b10&labelColor=231F20" alt="GitHub"/>
   </a>
 </p>
 
-</div>
+<p align="center">
+  <!-- Dynamic Typing SVG CLI Hacking Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&height=50&lines=▶+INITIALIZING+COGNITIVE+PROTOCOLS...;▶+TRAINING+CONVOLUTIONAL+NEURAL+NETS...;▶+SYNCHRONIZING+FULL--STACK+INTERFACES...;▶+DEPLOYING+PRODUCTION+MLOPS+PIPELINES...;▶+BOOTING+CYBERNETIC+DEVELOPER+CORE..." alt="Typing SVG" />
+  </a>
+</p>
 
----
+<br/>
 
-## 🎯 About Me
+<p align="center">
+  <!-- Glowing Section Header 1: Terminal Core (Local SVG) -->
+  <img src="assets/sub_terminal.svg" width="100%"/>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```python
-class MachineLearningEngineer:
-    def __init__(self):
-        self.name = "Rajeev Ranjan Pratap Singh"
-        self.role = "ML Developer & AI Enthusiast"
-        self.location = "India 🇮🇳"
-        self.focus = ["Deep Learning", "Computer Vision", "NLP"]
-        self.passion = "Building AI systems that solve real problems"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's innovate together! 🚀")
-
-me = MachineLearningEngineer()
-me.say_hi()
+```yaml
+▶ HOST_INITIALIZATION: COMPLETED // NEURAL_CORE_v2.0.8_ACTIVE
+─────────────────────────────────────────────────────────────────────────────
+ENGINEER:      "Rajeev Ranjan Pratap Singh"
+COGNITIVE:     "Deep Learning (CNNs, LLMs) | Computer Vision (OpenCV, YOLO)"
+HYPERTEXT:     "Full-Stack Web (React, NodeJS, Express, Javascript, CSS3, SQL)"
+TELEMETRY:     "MLOps Pipeline Integrations | Real-Time Diagnostic Deployments"
+STATUS:        "ACTIVE & INNOVATING // Ready for corporate sync operations"
 ```
 
-- 🌱 Learning **Generative AI, LLMs, and MLOps**
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
-- ⚡ Fun fact: **I believe AI can make the world a better place!**
+---
+
+<p align="center">
+  <!-- Glowing Section Header 2: About Bios (Local SVG) -->
+  <img src="assets/sub_profile.svg" width="100%"/>
+</p>
+
+<img align="right" alt="Futuristic Terminal Grid" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 8px;">
+
+```python
+class NeuralCore:
+    def __init__(self):
+        self.identity = "Rajeev Ranjan Pratap Singh"
+        self.role = "Machine Learning & Full Stack Engineer"
+        self.credo = "Synthesizing autonomous neural models with sleek visual frontends."
+        
+    def query_subsystems(self):
+        return {
+            "ml_pipelines": ["Computer Vision", "Real-Time Classification", "SpeechNLP"],
+            "web_interfaces": ["ReactJS SPAs", "NodeJS / Express APIs", "SQL Databases"],
+            "creativity_index": "100% Optimized // Building AI that solves human problems."
+        }
+
+core = NeuralCore()
+print(core.query_subsystems()["creativity_index"])
+```
+
+*   [+] **Global Sector:** Actively architecting highly interactive web apps and AI modules.
+*   [+] **Computational Credo:** Bridging advanced computational logic with human-centric interfaces.
+*   [+] **Current Research:** Custom MLOps pipeline optimizations and fine-tuning Transformer networks.
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Emotion Recognition
-<a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  
-</a>
-
-**Real-time facial emotion detection using Deep Learning**
-- 🎯 CNN-based architecture
-- 📊 7 emotion categories
-- 🚀 Real-time inference
-
 <p align="center">
-  <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-    <img src="https://img.shields.io/badge/-View%20Project-e67e22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <!-- Glowing Section Header 3: Projects (Local SVG) -->
+  <img src="assets/sub_projects.svg" width="100%"/>
 </p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Emotion Recognition Core
+`MODULE_01 // COMPUTER VISION`
+
+> **Real-time expression classifier** using deep CNN networks to parse human emotion states live.
+
+```yaml
+● STATUS:         [ACTIVE INFERENCE]
+● TELEMETRY:      "7 facial classes"
+● SYSTEM FLOW:    [██████████████████░] 94%
+```
+**Specs & Frameworks:** `CNN` • `OpenCV` • `TensorFlow` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/SYNC-MODULE-00FF66?style=for-the-badge&logo=github&logoColor=0d1117" />](https://github.com/RAJEEVRANJAN0001/Emotion-recognition)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧬 Brain Tumor Detection
-<a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
- 
-</a>
+### Brain Tumor Classifier
+`MODULE_02 // CLINICAL HEALTH`
 
-**AI-powered medical imaging analysis for tumor detection**
-- 🏥 MRI scan analysis
-- 🎯 Multi-class classification
-- 💡 95%+ accuracy
+> **Medical MRI analyzer** designed to segment tissues and identify tumors with high precision.
 
-<p align="center">
-  <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-    
-  </a>
-</p>
+```yaml
+● STATUS:         [CLINICAL ACTIVE]
+● TELEMETRY:      "95%+ accuracy"
+● SYSTEM FLOW:    [███████████████████░] 95%
+```
+**Specs & Frameworks:** `95%+ Acc` • `MRI Scans` • `PyTorch` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/SYNC-MODULE-00F0FF?style=for-the-badge&logo=github&logoColor=0d1117" />](https://github.com/RAJEEVRANJAN0001/brainTumor)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ Diabetic Retinopathy Detection
-<a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-</a>
+### Diabetic Retinopathy Core
+`MODULE_03 // CLINICAL COMPUTER VISION`
 
-**Early detection of diabetic retinopathy using CNNs**
-- 🔬 Retinal image analysis
-- 📈 5-stage classification
-- 🏆 Medical-grade accuracy
+> **Automated retinal scan diagnostic** grading vascular changes across a 5-stage scale.
 
-<p align="center">
-  <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-    <img src="https://img.shields.io/badge/-View%20Project-2ecc71?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```yaml
+● STATUS:         [STABLE DEPLOYMENT]
+● TELEMETRY:      "DenseNet/ResNet core"
+● SYSTEM FLOW:    [██████████████████░] 92%
+```
+**Specs & Frameworks:** `DenseNet` • `OpenCV` • `Keras` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/SYNC-MODULE-ffffff?style=for-the-badge&logo=github&logoColor=0d1117" />](https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎙️ Virtual Voice Assistant
-<a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
- 
-</a>
+### Virtual Voice Assistant
+`MODULE_04 // LANGUAGE ENGINE`
 
-**Intelligent voice-controlled assistant with NLP**
-- 🗣️ Speech recognition
-- 🤖 Natural language understanding
-- ⚡ Task automation
+> **Speech automation platform** leveraging voice processing to execute commands and queries.
 
-<p align="center">
-  <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-    <img src="https://img.shields.io/badge/-View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```yaml
+● STATUS:         [ONLINE & READY]
+● TELEMETRY:      "Real-time NLP"
+● SYSTEM FLOW:    [████████████████████] 100%
+```
+**Specs & Frameworks:** `SpeechNLP` • `Automation` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/SYNC-MODULE-00FF66?style=for-the-badge&logo=github&logoColor=0d1117" />](https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT)
 
 </td>
 </tr>
 </table>
 
+---
+
+<p align="center">
+  <!-- Glowing Section Header 4: Live Telemetry Stats (Local SVG) -->
+  <img src="assets/sub_stats.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Custom dynamic glowing cards with neon colors -->
+  <a href="https://github.com/RAJEEVRANJAN0001">
+    <img src="https://github-readme-stats.vercel.app/api?username=RAJEEVRANJAN0001&show_icons=true&theme=radical&bg_color=0d1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9&hide_border=false" height="195px" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJEEVRANJAN0001&layout=compact&theme=radical&bg_color=0d1117&title_color=00F0FF&icon_color=39FF14&text_color=c9d1d9&hide_border=false" height="195px" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <!-- Glowing Section Header 5: Skills Stack (Local SVG) -->
+  <img src="assets/sub_skills.svg" width="100%"/>
+</p>
+
+<div align="center">
+
+### Cognitive & Machine Learning Layers
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-00FF66?style=for-the-badge&logo=tensorflow&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/PyTorch-00F0FF?style=for-the-badge&logo=pytorch&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Keras-ffffff?style=for-the-badge&logo=keras&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/scikit--learn-00FF66?style=for-the-badge&logo=scikit-learn&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/OpenCV-00F0FF?style=for-the-badge&logo=opencv&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/YOLO-ffffff?style=for-the-badge&logo=yolo&logoColor=0d1117&labelColor=231F20" />
+</p>
+
+### Hypertext Core & Web Ecosystem (Full Stack)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117" />
+</p>
+
+### System Control & Operations (DevOps)
+<p>
+  <img src="https://img.shields.io/badge/Docker-00F0FF?style=for-the-badge&logo=docker&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Git-00FF66?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Streamlit-ffffff?style=for-the-badge&logo=streamlit&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Google_Cloud-00F0FF?style=for-the-badge&logo=google-cloud&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Jupyter-00FF66?style=for-the-badge&logo=jupyter&logoColor=0d1117&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117&labelColor=231F20" />
+</p>
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+  <!-- Glowing Section Header 6: Snake Game (Local SVG) -->
+  <img src="assets/sub_snake.svg" width="100%"/>
 </p>
 
-### 🤖 AI/ML Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-</p>
-
-### 📊 Data Science & Visualization
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🎯 Specializations
-<p>
-  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge&logo=deepmind&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6C3483?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-E67E22?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-0E76A8?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<h2 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h2>
-
-<div align="center">
+<p align="center">
+  <!-- Contribution Snake Grid SVG -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
+</p>
 
 <p align="center">
-  <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
+  <b><i>Watch the digital snake traverse my commit coordinates live on the grid!</i></b>
 </p>
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 💬 Let's Connect & Collaborate!
-
-
-
 <p align="center">
-  <b>🚀 Interested in AI, ML, or Healthcare Tech?</b><br/>
-  <b>Let's build something revolutionary together!</b>
+  <!-- Glowing Section Header 7: Goals (Local SVG) -->
+  <img src="assets/sub_goals.svg" width="100%"/>
 </p>
-
-<div align="center">
-
-📧 **Email:** [rajeevranjanpratapsinghj94@gmail.com](mailto:rajeevranjanpratapsinghj94@gmail.com)
-
-🔗 **LinkedIn:** [Rajeev Ranjan Pratap Singh](https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/)
-
-💻 **GitHub:** [RAJEEVRANJAN0001](https://github.com/RAJEEVRANJAN0001)
-
-</div>
-
----
-
-## 🎯 Current Focus
 
 ```javascript
 const currentGoals = {
-    learning: ["Large Language Models", "MLOps", "Edge AI"],
-    building: ["Healthcare AI Solutions", "Generative AI Apps"],
-    exploring: ["Reinforcement Learning", "Federated Learning"],
-    collaborating: "Open to innovative AI projects",
-    nextMilestone: "Contributing to open-source AI frameworks"
+    analyzing:  ["Large Language Models", "MLOps Automation Pipelines", "Edge Computing AI"],
+    building:   ["Intelligent Clinical AI Interfaces", "Futuristic React Full-Stack Platforms"],
+    exploring:  ["Reinforcement Learning Agents", "Federated Decentralized Architectures"],
+    synergy:    "Ready to sync on advanced Machine Learning & Secure Full-Stack software deployments"
 };
 ```
 
 ---
 
-## 📌 Pinned Repositories
+<p align="center">
+  <!-- Glowing Section Header 8: Connect (Local SVG) -->
+  <img src="assets/sub_connect.svg" width="100%"/>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-<a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Emotion-recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-</a>
-<a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=brainTumor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-</a>
+Email Terminal
 
-<a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Diabetic-Retinopathy-Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-</a>
-<a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=VIRTUAL-VOICE-ASSISTANT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
-</a>
+<br/>
 
-</div>
+[<img src="https://img.shields.io/badge/Transmit-Email-00FF66?style=for-the-badge&logo=gmail&logoColor=0d1117" />](mailto:rajeevranjanpratapsinghj94@gmail.com)
+
+</td>
+<td align="center" width="33%">
+
+LinkedIn Node
+
+<br/>
+
+[<img src="https://img.shields.io/badge/Sync-LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />](https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/)
+
+</td>
+<td align="center" width="33%">
+
+GitHub Source
+
+<br/>
+
+[<img src="https://img.shields.io/badge/Explore-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d1117" />](https://github.com/RAJEEVRANJAN0001)
+
+</td>
+</tr>
+</table>
 
 ---
 
+## Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Emotion-recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=brainTumor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Diabetic-Retinopathy-Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=VIRTUAL-VOICE-ASSISTANT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-### 🌟 "Innovation distinguishes between a leader and a follower." – Steve Jobs
+### "Innovation distinguishes between a leader and a follower." – Steve Jobs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20by-AI%20&%20Coffee-blue?style=for-the-badge" />
+<p align="center">
+  <!-- Waving Cyberpunk Footer (Local SVG) -->
+  <img src="assets/footer.svg" width="100%"/>
 </p>
 
-**⭐ Star my repositories if you find them useful!**
+<p>
+  <img src="https://img.shields.io/badge/Synthesized%20With-Code-red?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Ecosystem-Full_Stack_&_AI-blue?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+**Star the repositories if these diagnostic modules assist your workflows!**
 
 </div>
