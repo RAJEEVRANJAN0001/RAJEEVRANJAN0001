@@ -1,41 +1,10 @@
-<div align="center">
-
-<!-- Waving Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,8E44AD,FF007F,39FF14,00F0FF&height=220&section=header&text=RAJEEV%20RANJAN%20PRATAP%20SINGH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MACHINE%20LEARNING%20%26%20FULL%20STACK%20ENGINEER%20%7C%20INTELLIGENCE%20ARCHITECT&descAlignY=58&descSize=16" width="100%"/>
-
-<br/>
-
-<!-- Interactive-Style System Diagnostics Terminal -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; color: #58a6ff; line-height: 1.6; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
-      <div style="display: flex; align-items: center; padding-bottom: 12px; margin-bottom: 12px; border-bottom: 1px solid #21262d;">
-        <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-        <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-        <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 16px;"></span>
-        <span style="color: #8b949e; font-size: 12px; font-weight: bold; letter-spacing: 1px;">⚙️ SYSTEM_DIAGNOSTICS@NEURO-CORE:~</span>
-      </div>
-      <pre align="left" style="margin: 0; color: #c9d1d9; font-size: 13.5px; white-space: pre-wrap; font-family: 'Fira Code', monospace;">
-<span style="color: #00f0ff; font-weight: bold;">⚡ Booting Neural Core and Web Architecture Pipelines...</span>
-<span style="color: #39ff14;">[✓] OK:</span> Cognitive Processing Layers Active (CNNs, CV, NLP)
-<span style="color: #39ff14;">[✓] OK:</span> Hypertext Interface Protocols Deployed (React, JS, CSS)
-<span style="color: #39ff14;">[✓] OK:</span> MLOps Orchestrations Online (Docker, Jupyter, GCP)
-
-<span style="color: #ff007f; font-weight: bold;">🧬 INDIVIDUAL METADATA:</span>
-  • <b>NAME:</b> Rajeev Ranjan Pratap Singh
-  • <b>OPERATING SECTORS:</b> Machine Learning | Computer Vision | Full-Stack Web Development
-  • <b>COGNITIVE GEOLOCATION:</b> India 🇮🇳
-  • <b>SYSTEM GOAL:</b> Synthesizing high-precision algorithms with state-of-the-art interactive frontends.
-  • <b>MISSION PROFILE:</b> Developing visual and language intelligences that resolve complex real-world challenges.
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Glowing Badges -->
 <p align="center">
+  <!-- Waving Cyberpunk Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJEEV%20RANJAN%20PRATAP%20SINGH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Glowing Badges -->
   <a href="mailto:rajeevranjanpratapsinghj94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF007F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=231F20" alt="Gmail"/>
   </a>
@@ -47,13 +16,22 @@
   </a>
 </p>
 
-</div>
+```yaml
+# SYSTEM DIAGNOSTICS: BOOT_SEQUENCE [ONLINE]
+# ─────────────────────────────────────────────────────────────
+STATUS:        "ACTIVE & INNOVATING"
+SECTORS:       "Machine Learning | Computer Vision | NLP | Full-Stack Web"
+NEURAL_CORE:   "CNNs, LLMs, Generative AI, OpenCV, PyTorch, TensorFlow"
+INTERFACE:     "JavaScript (ES6+), NodeJS, Express, React, HTML5, CSS3, SQL"
+MISSION:       "Synthesizing high-precision algorithms with state-of-the-art interactive frontends."
+CREDO:         "Bridging deep computational logic with human-centric interfaces."
+```
 
 ---
 
-## 🧠 Core Neural Bios
+## 🎯 Core Neural Bios
 
-<img align="right" alt="Cybernetic Interface" width="360" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 4px 20px rgba(0,240,255,0.15);" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Cybernetic Interface" width="350" style="border-radius: 8px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
 class NeuralCore:
@@ -62,7 +40,6 @@ class NeuralCore:
         self.role = "ML & Full Stack Architect"
         self.location = "India 🇮🇳"
         self.specializations = ["Deep Learning", "Computer Vision", "NLP", "Full-Stack Development"]
-        self.credo = "Code is computational design, algorithms are the brushstrokes."
     
     def bootstrap(self):
         return {
@@ -75,110 +52,81 @@ me = NeuralCore()
 print(f"🚀 Mission: {me.bootstrap()['active_mission']}")
 ```
 
+- 🌱 Learning **Generative AI, LLMs, and MLOps**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- ⚡ Fun fact: **I believe AI can make the world a better place!**
+
 ---
 
 ## ⚡ Neural Sub-Systems // Active Projects
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="100%" style="border-collapse: collapse;">
-    <tr>
-      <!-- PROJECT 1 -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; padding: 22px;">
-        <div style="font-family: monospace; font-size: 11px; color: #ff007f; margin-bottom: 6px; letter-spacing: 1px; font-weight: bold;">⚡ MODULE_01 // COMPUTER VISION</div>
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #58a6ff; font-family: 'Outfit', sans-serif;">🧠 Emotion Recognition Core</h3>
-        <p style="font-size: 13.5px; color: #8b949e; line-height: 1.6; min-height: 70px; margin-bottom: 16px;">
-          <b>Real-time facial expression analyzer</b> using convolutional neural networks (CNNs) to accurately detect and segment 7 primary human emotion states live.
-        </p>
-        <div style="margin-bottom: 20px;">
-          <span style="font-size: 11px; font-weight: bold; background: rgba(0, 240, 255, 0.1); color: #00f0ff; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(0, 240, 255, 0.2); margin-right: 5px;">CNN</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(142, 68, 173, 0.1); color: #8e44ad; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(142, 68, 173, 0.2); margin-right: 5px;">OpenCV</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(255, 0, 127, 0.1); color: #ff007f; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(255, 0, 127, 0.2);">TensorFlow</span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #21262d; padding-top: 12px;">
-          <span style="font-family: monospace; font-size: 11px; color: #39ff14; font-weight: bold;">● Active Inference</span>
-          <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-View_System-FF007F?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      
-      <!-- spacing -->
-      <td width="2%"></td>
-      
-      <!-- PROJECT 2 -->
-      <td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; padding: 22px;">
-        <div style="font-family: monospace; font-size: 11px; color: #00f0ff; margin-bottom: 6px; letter-spacing: 1px; font-weight: bold;">⚡ MODULE_02 // HEALTHCARE AI</div>
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #58a6ff; font-family: 'Outfit', sans-serif;">🧬 Brain Tumor Classifier</h3>
-        <p style="font-size: 13.5px; color: #8b949e; line-height: 1.6; min-height: 70px; margin-bottom: 16px;">
-          <b>Advanced medical diagnostic system</b> trained on extensive MRI head scans to categorize tissues and identify malignant structures with 95%+ precision.
-        </p>
-        <div style="margin-bottom: 20px;">
-          <span style="font-size: 11px; font-weight: bold; background: rgba(57, 255, 20, 0.1); color: #39ff14; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(57, 255, 20, 0.2); margin-right: 5px;">95%+ Acc</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(142, 68, 173, 0.1); color: #8e44ad; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(142, 68, 173, 0.2); margin-right: 5px;">MRI</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(0, 240, 255, 0.1); color: #00f0ff; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(0, 240, 255, 0.2);">PyTorch</span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #21262d; padding-top: 12px;">
-          <span style="font-family: monospace; font-size: 11px; color: #39ff14; font-weight: bold;">● Active Diagnostics</span>
-          <a href="https://github.com/RAJEEVRANJAN0001/brainTumor" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-View_System-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-    
-    <!-- spacing row -->
-    <tr style="height: 15px;">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    
-    <tr>
-      <!-- PROJECT 3 -->
-      <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; padding: 22px;">
-        <div style="font-family: monospace; font-size: 11px; color: #39ff14; margin-bottom: 6px; letter-spacing: 1px; font-weight: bold;">⚡ MODULE_03 // CLINICAL CV</div>
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #58a6ff; font-family: 'Outfit', sans-serif;">👁️ Diabetic Retinopathy Diagnostic</h3>
-        <p style="font-size: 13.5px; color: #8b949e; line-height: 1.6; min-height: 70px; margin-bottom: 16px;">
-          <b>Early-stage automated classification</b> parsing medical fundus retinal scans to detect vascular changes and grade severity across a 5-stage scale.
-        </p>
-        <div style="margin-bottom: 20px;">
-          <span style="font-size: 11px; font-weight: bold; background: rgba(255, 0, 127, 0.1); color: #ff007f; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(255, 0, 127, 0.2); margin-right: 5px;">DenseNet</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(0, 240, 255, 0.1); color: #00f0ff; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(0, 240, 255, 0.2); margin-right: 5px;">Fundus Scans</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(142, 68, 173, 0.1); color: #8e44ad; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(142, 68, 173, 0.2);">Keras</span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #21262d; padding-top: 12px;">
-          <span style="font-family: monospace; font-size: 11px; color: #39ff14; font-weight: bold;">● Active Model</span>
-          <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-View_System-39FF14?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      
-      <!-- spacing -->
-      <td width="2%"></td>
-      
-      <!-- PROJECT 4 -->
-      <td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; padding: 22px;">
-        <div style="font-family: monospace; font-size: 11px; color: #8e44ad; margin-bottom: 6px; letter-spacing: 1px; font-weight: bold;">⚡ MODULE_04 // NATURAL LANGUAGE</div>
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #58a6ff; font-family: 'Outfit', sans-serif;">🎙️ Virtual Voice Assistant</h3>
-        <p style="font-size: 13.5px; color: #8b949e; line-height: 1.6; min-height: 70px; margin-bottom: 16px;">
-          <b>Speech-guided automation dashboard</b> built using speech parsing algorithms and NLP routines to execute secure OS operations and process information queries.
-        </p>
-        <div style="margin-bottom: 20px;">
-          <span style="font-size: 11px; font-weight: bold; background: rgba(0, 240, 255, 0.1); color: #00f0ff; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(0, 240, 255, 0.2); margin-right: 5px;">SpeechNLP</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(255, 0, 127, 0.1); color: #ff007f; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(255, 0, 127, 0.2); margin-right: 5px;">Python</span>
-          <span style="font-size: 11px; font-weight: bold; background: rgba(57, 255, 20, 0.1); color: #39ff14; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(57, 255, 20, 0.2);">Automation</span>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #21262d; padding-top: 12px;">
-          <span style="font-family: monospace; font-size: 11px; color: #39ff14; font-weight: bold;">● Active Assistant</span>
-          <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-View_System-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Emotion Recognition Core
+*⚡ MODULE_01 // COMPUTER VISION*
+
+> **Real-time facial expression analyzer** using convolutional neural networks to classify and segment 7 primary human emotion states live.
+
+**🔬 Specs & Frameworks:**
+`CNN` • `OpenCV` • `TensorFlow` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/-View_System-FF007F?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RAJEEVRANJAN0001/Emotion-recognition)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Brain Tumor Classifier
+*⚡ MODULE_02 // HEALTHCARE AI*
+
+> **Advanced medical diagnostic system** trained on clinical MRI head scans to analyze tissues and identify malignant structures with 95%+ precision.
+
+**🔬 Specs & Frameworks:**
+`95%+ Acc` • `MRI Scans` • `PyTorch` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/-View_System-00F0FF?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RAJEEVRANJAN0001/brainTumor)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Diabetic Retinopathy Core
+*⚡ MODULE_03 // CLINICAL CV*
+
+> **Early-stage automated classification** parsing medical fundus retinal scans to detect vascular changes and grade severity across a 5-stage scale.
+
+**🔬 Specs & Frameworks:**
+`DenseNet` • `OpenCV` • `Keras` • `Python`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/-View_System-39FF14?style=for-the-badge&logo=github&logoColor=black" />](https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Virtual Voice Assistant
+*⚡ MODULE_04 // NATURAL LANGUAGE*
+
+> **Speech-guided automation dashboard** built using speech parsing algorithms and NLP routines to execute secure OS operations and process queries.
+
+**🔬 Specs & Frameworks:**
+`SpeechNLP` • `Python` • `Automation`
+
+<br/>
+
+[<img src="https://img.shields.io/badge/-View_System-8E44AD?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -225,14 +173,22 @@ print(f"🚀 Mission: {me.bootstrap()['active_mission']}")
 
 ## 📈 LATTICE ACTIVATION // CONTRIBUTION SNAKE
 
-<h3 align="center">🎮 Idle Game Engine Sandbox</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="border-radius: 12px; border: 1px solid #30363d; background: #000; box-shadow: 0 4px 20px rgba(57,255,20,0.1);"/>
-</div>
+<h3 align="center">🎮 Just for Fun: Auto-Playing Game Showcases</h3>
 
 <p align="center">
-  <b><i>🐍 Parsing your local commit coordinates. The cyber-serpent is hungry for contributions!</i></b>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <b><i>🐍 Watch the snake hunt down my contribution graph. It’s hungry for commits!</i></b>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -240,11 +196,12 @@ print(f"🚀 Mission: {me.bootstrap()['active_mission']}")
 ## 🚀 Neural Core Active Operands (Current Focus)
 
 ```javascript
-const NEURAL_PROTOCOLS = {
-    learning:      ["Large Language Models", "MLOps Pipelines", "Edge Computing AI"],
-    building:      ["Intelligent Clinical AI Interfaces", "Futuristic React Single Page Apps"],
-    exploring:     ["Reinforcement Learning Agents", "Federated Decentralized Architectures"],
-    collaboration: "Ready to coordinate on advanced AI models & secure full-stack software deployments"
+const currentGoals = {
+    learning: ["Large Language Models", "MLOps", "Edge AI"],
+    building: ["Healthcare AI Solutions", "Generative AI Apps"],
+    exploring: ["Reinforcement Learning", "Federated Learning"],
+    collaborating: "Open to innovative AI projects",
+    nextMilestone: "Contributing to open-source AI frameworks"
 };
 ```
 
@@ -252,50 +209,75 @@ const NEURAL_PROTOCOLS = {
 
 ## 💬 Connect Interlinks // Neural Node Terminals
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- EMAIL -->
-    <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-      <div style="font-size: 24px; margin-bottom: 10px;">📧</div>
-      <h4 style="margin: 0 0 10px 0; color: #58a6ff; font-family: sans-serif;">DIRECT INTERCONNECT</h4>
-      <p style="font-size: 12px; color: #8b949e; margin-bottom: 15px;">Send a data transmission to the main terminal.</p>
-      <a href="mailto:rajeevranjanpratapsinghj94@gmail.com" style="text-decoration: none; display: inline-block; background: #ff007f; color: white; font-family: monospace; font-size: 11px; font-weight: bold; padding: 8px 16px; border-radius: 5px; border: 1px solid rgba(255,0,127,0.3);">TRANSMIT EMAIL</a>
-    </td>
-    <!-- spacing -->
-    <td width="2%"></td>
-    <!-- LINKEDIN -->
-    <td width="31%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-      <div style="font-size: 24px; margin-bottom: 10px;">🔗</div>
-      <h4 style="margin: 0 0 10px 0; color: #58a6ff; font-family: sans-serif;">PROFESSIONAL MATRIX</h4>
-      <p style="font-size: 12px; color: #8b949e; margin-bottom: 15px;">Synch with the engineer's networking node.</p>
-      <a href="https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/" style="text-decoration: none; display: inline-block; background: #00f0ff; color: #0d1117; font-family: monospace; font-size: 11px; font-weight: bold; padding: 8px 16px; border-radius: 5px; border: 1px solid rgba(0,240,255,0.3);">SYNC LINKEDIN</a>
-    </td>
-    <!-- spacing -->
-    <td width="2%"></td>
-    <!-- PORTFOLIO / GITHUB -->
-    <td width="32%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-      <div style="font-size: 24px; margin-bottom: 10px;">💻</div>
-      <h4 style="margin: 0 0 10px 0; color: #58a6ff; font-family: sans-serif;">GITSHELL SOURCE</h4>
-      <p style="font-size: 12px; color: #8b949e; margin-bottom: 15px;">Traverse direct source codes and frameworks.</p>
-      <a href="https://github.com/RAJEEVRANJAN0001" style="text-decoration: none; display: inline-block; background: #8e44ad; color: white; font-family: monospace; font-size: 11px; font-weight: bold; padding: 8px 16px; border-radius: 5px; border: 1px solid rgba(142,68,173,0.3);">EXPLORE GITHUB</a>
-    </td>
-  </tr>
-</table>
+📧 **Email Terminal**
 
 <br/>
 
-> [!NOTE]
-> *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
+[<img src="https://img.shields.io/badge/Transmit-Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rajeevranjanpratapsinghj94@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,8E44AD,FF007F,39FF14,00F0FF&height=100&section=footer&text=Neural%20Lattice%20Terminated%20🚀&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</td>
+<td align="center" width="33%">
 
-<p>
-  <img src="https://img.shields.io/badge/Synthesized%20With-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge&labelColor=231F20" />
-  <img src="https://img.shields.io/badge/Computational-Subsystems-blue?style=for-the-badge&labelColor=231F20" />
+🔗 **LinkedIn Node**
+
+<br/>
+
+[<img src="https://img.shields.io/badge/Sync-LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajeev-ranjan-pratap-singh/)
+
+</td>
+<td align="center" width="33%">
+
+💻 **GitHub Source**
+
+<br/>
+
+[<img src="https://img.shields.io/badge/Explore-GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RAJEEVRANJAN0001)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Emotion-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Emotion-recognition&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001/brainTumor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=brainTumor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  </a>
 </p>
 
-**⭐ Star the repositories if these diagnostic modules assist your workflows!**
+<p align="center">
+  <a href="https://github.com/RAJEEVRANJAN0001/Diabetic-Retinopathy-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=Diabetic-Retinopathy-Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  </a>
+  <a href="https://github.com/RAJEEVRANJAN0001/VIRTUAL-VOICE-ASSISTANT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJEEVRANJAN0001&repo=VIRTUAL-VOICE-ASSISTANT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🌟 "Innovation distinguishes between a leader and a follower." – Steve Jobs
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-AI%20&%20Coffee-blue?style=for-the-badge" />
+</p>
+
+**⭐ Star my repositories if you find them useful!**
 
 </div>
